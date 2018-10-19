@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>All about rabbits!!</title>
+    </head>
+    <body>
+
+    <h1>New ASEAN Stock Market</h1>
+    
+    <h2><strong><em>Marketplace</em> for you to be a part of future</strong></h2>
+    
+    <p>Newell assist  people to invest in new company that will altered the future</p>\
+    
+    <h2>Songs</h2>
+    
+    <p>Little Bunny <em>Foo Foo</em>, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+
+
+    
+    <p>Little Bunny Foo Foo, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+
+
+    
+    <h2>Basic info</h2>
+    
+    <p></p>
+    
+    <h2>Songs</h2>
+    <h1>All about rabbits!</h1>
