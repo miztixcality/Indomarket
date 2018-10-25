@@ -1,3 +1,51 @@
-h1  {
+h1, h2 {
     color:#473229;text-align:center
+    }
+
+
+p::selection {
+    color:#db600f;
+    background-color: #dbd70f
+}
+
+button {
+    background-color: transparent;
+    width : 150px;
+    height: 40px;
+    font-size: 100%
+
+}
+button:hover {
+    background-color: #776ded;
+}
+
+a[id=part1]::before {
+    content: " \21D2 Click Here:";
+    font-weight: bold;
+    color:black;
+}
+
+input[type=text] {
+    background-color: red;
+}
+
+input[type=number] {
+    background-color: yellow;
+}
+
+h1[id=section1] {
+    color:#473229;
+    text-align:center;
+    font-family: 'Palatino Linotype', 'Segoe UI', 'Geneva', Verdana, sans-serif;
+    font-size: 28pt;
+    font-weight: bold
+    }
+    
+div[id=part1] {
+    background-color: aliceblue;
+    width: 100px;
+    height: 20px;
+    margin : 3px;
+    padding :1%;
+    border :1px dotted burlywood;
     }
